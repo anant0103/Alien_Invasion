@@ -16,7 +16,7 @@ Project is created with:
 * Pygame version: 
 	
 ## Setup
-To run this project,  run following command:
+To run this project,  first clone this repository:
 
 ```
 >> git clone https://github.com/anant0103/Alien_Invasion
