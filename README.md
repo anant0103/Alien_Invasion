@@ -6,8 +6,8 @@
 
 ## 📑 Table of Contents
 * [Overview](#overview)
-* [Technologies](#Technologies-Used)
-* [Setup](#setup-instructions)
+* [Technologies Used](#Technologies-Used)
+* [Setup Instructions](#setup-instructions)
 
 ## 🕹️ Overview
 Alien Invasion is a basic 2D space shooter game developed in Python using the Pygame library. The game is structured using object-oriented programming (OOP) principles, making it modular and easy to expand or modify.
