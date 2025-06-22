@@ -1,4 +1,4 @@
-# 🚀 Alien Invasion
+# 🚀 Alien Invasion ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### A simple 2D arcade-style shooter game built using Python and the Pygame library.
 
